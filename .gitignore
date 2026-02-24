@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.db       # Keeps your local SQLite database private
+.env       # Keeps your local environment variables private
+*.log       # Keeps log files private
